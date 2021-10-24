@@ -1,5 +1,5 @@
 .container{
-    /* border: 1px solid black; */
+    /* border: 1px solid black; this is if you want to show the size of the container */
     display: flex;
     justify-content: center;
     align-items: center;
